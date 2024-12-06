@@ -1,4 +1,4 @@
-package Bai_1;
+package Lab_1;
 
 public class Math_Method {
     public static void main(String[] args) {
