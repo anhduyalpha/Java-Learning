@@ -8,6 +8,9 @@ public class Math_Method {
 
         System.out.println(Math.max(a,b)); // Max between two number
         System.out.println(Math.sqrt(16)); // Square root
+        System.out.println(Math.round(16.52321312)); // Round
+        System.out.println(Math.pow(16, 5)); // Exponent
+
         // and more like abs, exponent, round ...
 
     }
